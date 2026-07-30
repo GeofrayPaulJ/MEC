@@ -1,0 +1,6 @@
+# Pinned in full. Transitive dependencies are not pinned here; if you need
+# byte-reproducibility, generate a lockfile with `pip freeze` inside the image
+# and commit that alongside this file.
+SimpleITK==2.3.1
+numpy==1.26.4
+pytest==8.3.4
