@@ -2,7 +2,7 @@
 
 Preflight checks for medical imaging challenge submission containers.
 
-Companion repository to **[Your GPU Is Lying To You](#)** — MICCAI Educational Challenge 2026.
+Companion repository to **[Your GPU Is Lying To You](https://youtu.be/8Epz6I85QDY)** — MICCAI Educational Challenge 2026.
 
 Every check here is derived from a specific failure encountered while building and
 submitting containers to the AIMS-TBI challenge (MICCAI 2026). None of them require
