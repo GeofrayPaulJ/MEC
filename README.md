@@ -73,7 +73,7 @@ cuda_build              : 12.4
 cuda_claimed_available  : True
 cuda_actually_usable    : False
 device_selected         : cpu
-device_name             : NVIDIA GeForce RTX 5060 Ti
+device_name             : [GPU model redacted]
 capability              : sm_120
 lying                   : True
 
